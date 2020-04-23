@@ -1,7 +1,7 @@
 This is line 1
 Line 2 added by another dev.
 Line 3 p chamod.
-Line 4 by another
+This should be deleted.
 Line 4 by chamod.
 New line added.
 This is the newly added 2nd line.
